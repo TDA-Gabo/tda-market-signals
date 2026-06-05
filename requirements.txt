@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scipy
+yfinance
+ripser
+persim
+giotto-tda
+gudhi
+networkx
+scikit-learn
+jupyter
