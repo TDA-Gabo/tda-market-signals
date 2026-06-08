@@ -25,7 +25,7 @@ tda-market-signals/
 ├── README.md
 ├── requirements.txt
 ├── notebooks/
-│   ├── 01_data.ipynb
+│   ├── 01_market_data.ipynb
 │   ├── 02_topological_transitions.ipynb
 │   ├── 03_early_warning_signal.ipynb
 │   └── 04_parameter_adjustment.ipynb
