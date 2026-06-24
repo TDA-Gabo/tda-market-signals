@@ -54,8 +54,8 @@ pip install -r requirements.txt
 
 ## Roadmap
 
-- [x] Notebook 01: Market Data — collection data
-- [x] Notebook 02: Topological transitions — first view of topological transitions
+- [ ] Notebook 01: Market Data — collection data
+- [ ] Notebook 02: Topological transitions — first view of topological transitions
 - [ ] Notebook 03: Early warning signal — L² norm + spectral density for warning signals
 - [ ] Notebook 04: Parameter Adjustment — persistence-based w vs w=50
 - [ ] src/ modules
